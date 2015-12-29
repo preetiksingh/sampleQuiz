@@ -12,7 +12,7 @@ body {
   background: rgb(16, 81, 33);
   margin : 20px auto ;
   overflow:auto;
-  padding:25px;
+  padding:25px; 
 
 }
 
@@ -20,4 +20,41 @@ header h1 {
 
   margin :0;
   padding :0;
+}
+
+header p {
+
+  padding :0;
+  margin-top:5px;
+  color:#000;
+}
+
+
+section {
+  min-height :400px;
+}
+
+footer {
+  text-align: center;
+}
+
+input[type='submit'] {
+  background: #000;
+  border:0;
+  color:#fff;
+  padding:10px 15px;
+  cursor:pointer;
+}
+
+#results h3 {
+
+  background :#000;
+  padding :10px;
+  margin :10px 0;
+}
+
+#results span {
+
+  color :#000;
+  font-weight :bold;
 }
