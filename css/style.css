@@ -1,0 +1,23 @@
+body {
+
+  background-color: #000;
+  color:#fff;
+  font-family: "Arial" ,sans-serif;
+  font-size: 14px;
+}
+
+#container {
+
+  width :60%;
+  background: rgb(16, 81, 33);
+  margin : 20px auto ;
+  overflow:auto;
+  padding:25px;
+
+}
+
+header h1 {
+
+  margin :0;
+  padding :0;
+}
